@@ -24,7 +24,7 @@ $ bundle install
 
 #### Running the example:
 
-> <font color='red'>^NOTE:</font> The example reads the API key from `key.yml`.  Please check the provided `key.example.yml` file for where to add your key. 
+> <font color='red'>NOTE:</font> The example reads the API key from `key.yml`.  Please check the provided `key.example.yml` file for where to add your key. 
 
 ```bash
 $ ruby temperatura.rb
